@@ -688,13 +688,22 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-sfX1wGqkTH {
-  background-image: url("../../../assets/images/pawel-czerwinski-2dyr13fng2i-unsplash-2000x1333.jpg");
+.cid-sjHa9i2CFB {
+  background-image: url("../../../assets/images/kevin-bhagat-znrite8npqy-unsplash-1-2000x1346.png");
+}
+.cid-sjHa9i2CFB .mbr-text,
+.cid-sjHa9i2CFB .mbr-section-btn {
+  text-align: right;
+  color: #000000;
+}
+.cid-sjHa9i2CFB .mbr-section-title {
+  text-align: right;
+  color: #000000;
 }
 .cid-sfX1lRQ3xI {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #bed3f9;
+  background-color: #ffffff;
 }
 .cid-sfX1lRQ3xI img,
 .cid-sfX1lRQ3xI .item-img {
@@ -711,7 +720,7 @@ a {
 .cid-sfX1lRQ3xI .item-wrapper {
   position: relative;
   border-radius: 4px;
-  background: #ffffff;
+  background: #f9f9f9;
   height: 100%;
   display: flex;
   flex-flow: column nowrap;
@@ -736,7 +745,7 @@ a {
   margin-top: auto !important;
 }
 .cid-sfX1lRQ3xI .mbr-section-title {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-sfX1lRQ3xI .mbr-text,
 .cid-sfX1lRQ3xI .mbr-section-btn {
