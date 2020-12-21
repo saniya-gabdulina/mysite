@@ -118,8 +118,8 @@ body {
 }
 .btn-primary,
 .btn-primary:active {
-  background-color: #6592e6 !important;
-  border-color: #6592e6 !important;
+  background-color:#2b6188 !important;
+  border-color: #2b6188!important;
   color: #ffffff !important;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
 }
@@ -688,22 +688,62 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-sjHa9i2CFB {
+.cid-sjNlKSRgdR {
   background-image: url("../../../assets/images/kevin-bhagat-znrite8npqy-unsplash-1-2000x1346.png");
 }
-.cid-sjHa9i2CFB .mbr-text,
-.cid-sjHa9i2CFB .mbr-section-btn {
-  text-align: right;
-  color: #000000;
+.cid-sjNlKSRgdR .social-row .soc-item {
+  display: inline-block;
+  text-align: center;
+  margin-bottom: 1rem;
+  margin-right: .7rem;
 }
-.cid-sjHa9i2CFB .mbr-section-title {
+.cid-sjNlKSRgdR .social-row .soc-item .mbr-iconfont {
+  font-size: 32px;
+  border-radius: 50%;
+  padding: 0.6rem;
+  border: 2px solid #232323;
+  transition: all 0.3s;
+  color: #232323;
+}
+.cid-sjNlKSRgdR .social-row .soc-item .mbr-iconfont:hover {
+  background-color: #232323;
+  color: #ffffff;
+}
+.cid-sjNlKSRgdR .mbr-section-title {
   text-align: right;
-  color: #000000;
+}
+.cid-sjNlKSRgdR .mbr-text,
+.cid-sjNlKSRgdR .mbr-section-btn,
+.cid-sjNlKSRgdR .social-row {
+  text-align: right;
+}
+.cid-sjNhwca771 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-sjNhwca771 ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 2.5rem;
+}
+.cid-sjNhwca771 li {
+  position: relative;
+  margin-bottom: 1rem;
+}
+.cid-sjNhwca771 ul li::before {
+  position: absolute;
+  left: -1.6rem;
+  content: "\2022";
+  color: #6592e6;
+  font-weight: bold;
+  font-size: 2rem;
+  width: 1.6rem;
 }
 .cid-sfX1lRQ3xI {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-color: #f6f6f6;
 }
 .cid-sfX1lRQ3xI img,
 .cid-sfX1lRQ3xI .item-img {
@@ -720,7 +760,7 @@ a {
 .cid-sfX1lRQ3xI .item-wrapper {
   position: relative;
   border-radius: 4px;
-  background: #f9f9f9;
+  background: #ffffff;
   height: 100%;
   display: flex;
   flex-flow: column nowrap;
@@ -760,5 +800,5 @@ a {
 .cid-sfX1DNlkx7 {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #232323;
+  background-color: #2b6188;
 }
