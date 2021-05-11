@@ -1,72 +1,4 @@
-<!DOCTYPE html>
-<html  >
-<head>
-  <!-- Site made with Mobirise Website Builder v5.2.0, https://mobirise.com -->
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Mobirise v5.2.0, mobirise.com">
-  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-  <link rel="shortcut icon" href="assets/images/logo5.png" type="image/x-icon">
-  <meta name="description" content="">
-  
-  
-  <title>Home</title>
-  <link rel="stylesheet" href="assets/tether/tether.min.css">
-  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
-  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
-  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
-  <link rel="stylesheet" href="assets/socicon/css/styles.css">
-  <link rel="stylesheet" href="assets/theme/css/style.css">
-  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
-  
-  
-  
-  
-</head>
-<body>
-  
-  <section class="header13 cid-sjNlKSRgdR mbr-fullscreen" id="header13-e">
-
-    
-
-    <div class="mbr-overlay" style="opacity: 0.4; background-color: rgb(255, 255, 255);"></div>
-
-    <div class="align-center container-fluid">
-        <div class="row justify-content-center">
-            <div class="col-12 col-lg-10">
-                <h1 class="mbr-section-title mbr-fonts-style mb-3 display-1"><strong>Габдулина Сания</strong></h1>
-                
-                <p class="mbr-text mbr-fonts-style mb-3 display-5">Junior UI-Designer, Frontend developer</p>
-                
-                <div class="social-row display-7 mt-5">
-                    <div class="soc-item">
-                        <a href="https://t.me/sunny_marshmallow" target="_blank">
-                            <span class="mbr-iconfont socicon-telegram socicon"></span>
-                        </a>
-                    </div>
-                    <div class="soc-item">
-                        <a href="https://wa.me/8777335949">
-                            <span class="mbr-iconfont socicon-whatsapp socicon"></span>
-                        </a>
-                    </div>
-                    <div class="soc-item">
-                        <a href="https://www.instagram.com/kuroshitsuji.tyan/" target="_blank">
-                            <span class="mbr-iconfont socicon-instagram socicon"></span>
-                        </a>
-                    </div>
-                    
-                    
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="content14 cid-sjNhwca771" id="content14-d">
-    
-    
-    
-    <div class="container-fluid">
+ <div class="container-fluid">
         <div class="row justify-content-center">
             <div class="col-md-12 col-lg-10">
                     <h3 class="mbr-section-title mbr-fonts-style mb-4 display-5">
@@ -102,29 +34,19 @@
         </div>
     </div>
 
-</section>
 
-<section class="content14 cid-sx6x1P3qYe" id="content14-h">
-    
-    
-    
-    <div class="container-fluid">
-        <div class="row justify-content-center">
-            <div class="col-md-12 col-lg-10">
-                    <h3 class="mbr-section-title mbr-fonts-style mb-4 display-2"><strong>О себе</strong></h3>
-                <ul class="list mbr-fonts-style display-7">
+
+<ul class="list mbr-fonts-style display-7">
                     <li>Изучаю UI дизайн
-                    </li><li>Повышаю скилл по Frontend
-                    </li><li>Хожу в бассейн, катаюсь на борде и велосипеде
-                    </li><li>Изучаю 3D max
-                    </li><li>С дестсва люблю рисовать, ходила в художественную школу
-                    </li><li>Люблю печь десерты
-                    </li>
+      </li><li>Повышаю скилл по Frontend
+      </li><li>Хожу в бассейн, катаюсь на борде и велосипеде
+      </li><li>Изучаю 3D max
+      </li><li>С дестсва люблю рисовать, ходила в художественную школу
+      </li><li>Люблю печь десерты
+      </li>
                 </ul>
-            </div>
-        </div>
-    </div>
-</section>
+
+
 
 
 <section class="gallery2 cid-sfX1lRQ3xI" id="gallery2-4">
@@ -141,7 +63,7 @@
             <div class="item features-image сol-12 col-md-6 col-lg-6">
                 <div class="item-wrapper">
                     <div class="item-img">
-                        <img src="assets/images/Screenshot_3.png" alt="" data-slide-to="0">
+                        <img src="assets/images/screenshot-3.png" alt="" data-slide-to="0">
                     </div>
                     <div class="item-content">
                         <h5 class="item-title mbr-fonts-style display-5">Turiada</h5>
@@ -217,24 +139,3 @@
         </div>
     </div>
 </section>
-
-<section class="footer7 cid-sfX1DNlkx7" once="footers" id="footer7-6">
-
-    
-
-    
-
-    <div class="container">
-        <div class="media-container-row align-center mbr-white">
-            <div class="col-12">
-                <p class="mbr-text mb-0 mbr-fonts-style display-7">
-                    © Copyright 2025 - All Rights Reserved
-                </p>
-            </div>
-        </div>
-    </div>
-</section><section style="background-color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif; color:#aaa; font-size:12px; padding: 0; align-items: center; display: flex;"><a href="https://mobirise.site/n" style="flex: 1 1; height: 3rem; padding-left: 1rem; display: none;"></a></section><script src="assets/web/assets/jquery/jquery.min.js"></script>  <script src="assets/popper/popper.min.js"></script>  <script src="assets/tether/tether.min.js"></script>  <script src="assets/bootstrap/js/bootstrap.min.js"></script>  <script src="assets/smoothscroll/smooth-scroll.js"></script>  <script src="assets/theme/js/script.js"></script>  
-  
-  
-</body>
-</html>
